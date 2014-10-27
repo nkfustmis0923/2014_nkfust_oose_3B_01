@@ -23,28 +23,40 @@
     其對美學與品質的堅持，就如同我們對於生活態度的本能直覺。
 
 ### ★ 事件與使用案例表： ☆　###
-<b></b>	
-	<table>
-		<tr>
-			<td>事件名稱</td>
-			<td>使用案例名稱</td>
-		</tr>
-		<tr>
-			<td>1、能夠對所有服飾基本資料進行新增、刪除、修改、查詢 。</td>
-			<td>1、服飾基本資料作業 。</td>
-		</tr>
-		<tr>
-			<td>2、能夠對所有客戶基本資料進行新增、刪除、修改、查詢 。</td>
-			<td>2、客戶基本資料作業 。</td>
-		</tr>
-		<tr>
-			<td>3、業者能快速查詢產品規格、價格與比對，並可清點進、銷、退貨及更改庫存量 。</td>
-			<td>3、倉儲管理作業 。</td>
-		</tr>
-		<tr>
-			<td>4、使用者能透過應用程式選購商品並正確且快速結帳及紀錄交易（前台作業）。</td>
-			<td>4、處理訂單作業 。</td>
-		</tr>
-	</table>
-	
+![default](https://cloud.githubusercontent.com/assets/8871571/4792221/94579aba-5de4-11e4-8e40-73b9eb45b654.png)
+
 ### ★ 利害關係人目標表： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/4792113/a4b51b2c-5de3-11e4-9bd8-ff4e337b6c0c.png)
+
+### ★ 使用案例圖： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/4792170/31ae7226-5de4-11e4-983a-514e1fd3b6f7.png)
+
+### ★ 使用案例的描述： ☆　###
+![-](https://cloud.githubusercontent.com/assets/8871571/4792199/6a89e170-5de4-11e4-8cec-d6091f4a5e1f.png)
+![-](https://cloud.githubusercontent.com/assets/8871571/4792203/6f71e098-5de4-11e4-82dd-cc03c9d4735c.png)
+![-](https://cloud.githubusercontent.com/assets/8871571/4792204/72a53260-5de4-11e4-8578-f7b7c1d38a83.png)
+![-](https://cloud.githubusercontent.com/assets/8871571/4792206/752b2580-5de4-11e4-9c76-901eac39203d.png)
+
+### ★使用案例的活動圖： ☆　###
+#### ★服飾基本資料作業活動圖☆ ####
+![default](https://cloud.githubusercontent.com/assets/8871571/4792232/a7d4b0c8-5de4-11e4-9b54-7c9cd2c6aa88.png)
+#### ★客戶基本資料作業活動圖☆ ####
+![default](https://cloud.githubusercontent.com/assets/8871571/4792235/ae6f1324-5de4-11e4-901c-6e4046f9066b.png)
+#### ★倉儲管理作業活動圖☆ ####
+![default](https://cloud.githubusercontent.com/assets/8871571/4792240/b86511ee-5de4-11e4-8fe0-fbb5bb7600aa.png)
+#### ★處理訂單記錄活動圖☆ ####
+![default](https://cloud.githubusercontent.com/assets/8871571/4792237/b520e1d4-5de4-11e4-8443-e6ba99829a3c.png)
+
+### ★使用案例的名詞與概念類別列舉表： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/4792256/e4871bf0-5de4-11e4-89e9-d28f2527a4f1.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4792257/e7ff34fc-5de4-11e4-9509-15fa50a5667c.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4792258/eb449e5e-5de4-11e4-81d3-c048500770d6.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4792266/ee00521e-5de4-11e4-8434-9727fb93307b.png)
+
+### ★使用案例的初步類別圖： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/4792280/073c5aa2-5de5-11e4-981f-59db5787808d.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4792285/1394b696-5de5-11e4-9a11-da0d8211dba7.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4792286/1963d5fc-5de5-11e4-9180-377f25424573.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4792292/1d0ae43e-5de5-11e4-9394-d6c5ae07e6d0.png)
+
+### ★整個系統的初步類別圖： ☆　###
