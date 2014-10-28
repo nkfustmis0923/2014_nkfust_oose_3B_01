@@ -27,10 +27,10 @@
 ![default](https://cloud.githubusercontent.com/assets/8871571/4792221/94579aba-5de4-11e4-8e40-73b9eb45b654.png)
 
 ### ★ 使用案例圖： ☆　###
-![default](https://cloud.githubusercontent.com/assets/8871571/4792170/31ae7226-5de4-11e4-983a-514e1fd3b6f7.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808297/fe6de32c-5e9e-11e4-8f99-66e343745e33.png)
 
 ### ★ 使用案例的描述： ☆　###
-![-](https://cloud.githubusercontent.com/assets/8871571/4805197/aa23e2a0-5e79-11e4-975f-856bf2efe01b.png)
+![-](https://cloud.githubusercontent.com/assets/8871571/4808210/fd17cb9c-5e9d-11e4-86cc-70c7f93d4a51.png)
 ![-](https://cloud.githubusercontent.com/assets/8871571/4805198/adba9710-5e79-11e4-9dbe-9c33aa4ff8df.png)
 ![-](https://cloud.githubusercontent.com/assets/8871571/4805199/b0fc3f14-5e79-11e4-9b14-3d670b48f212.png)
 ![-](https://cloud.githubusercontent.com/assets/8871571/4805201/b5788426-5e79-11e4-8562-62de8303f934.png)
@@ -57,16 +57,16 @@
 
 ### ★使用案例的初步類別圖： ☆　###
 ##### ★ 服飾基本資料作業之初步類別圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4793967/c7e4a028-5df1-11e4-8f05-7611602fb51c.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808241/612501e0-5e9e-11e4-8f4f-3372f09e0315.png)
 ##### ★ 客戶基本資料作業之初步類別圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4793975/d143ca2c-5df1-11e4-937a-ef00aa5bd0f5.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808248/7e6e3dd4-5e9e-11e4-8d2d-4f2dc38b912e.png)
 ##### ★ 處理訂單記錄作業之初步類別圖 #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4793980/d79bcb90-5df1-11e4-8db5-3284f8d4918e.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808250/83e16db8-5e9e-11e4-914c-308498359c45.png)
 ##### ★ 倉儲管理作業之初步類別圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4793988/dfd33906-5df1-11e4-8e10-7d6237478d08.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808259/96b705e2-5e9e-11e4-9a1c-6a28fb2aca9b.png)
 
 ### ★系統初步類別圖： ☆　###
-![default](https://cloud.githubusercontent.com/assets/8871571/4793958/b73352d8-5df1-11e4-9b39-f8ac5a31c9f7.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808269/b61d7d94-5e9e-11e4-82a9-23dc379d37c3.png)
 
 ### ★使用案例主要成功情節之英文名稱事件對應： ☆　###
 ![-](https://cloud.githubusercontent.com/assets/8871571/4805218/e419d4d8-5e79-11e4-99b4-5b5a66a53938.png)
@@ -88,8 +88,9 @@
 ##### ★ 服飾基本資料作業循序圖☆ #####
 ![default](https://cloud.githubusercontent.com/assets/8871571/4792742/090d6232-5de9-11e4-8798-dbc07750e534.png)
 ##### ★ 客戶基本資料作業循序圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4805228/083a5e82-5e7a-11e4-8985-26bd25e7706e.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808286/d7dfdb8e-5e9e-11e4-8b97-7b27c2ebb3df.png)
 ##### ★ 處理訂單紀錄循序圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4805231/11837636-5e7a-11e4-993e-228dcdf4597d.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808288/db738e58-5e9e-11e4-9255-a5e0b7c650c6.png)
 ##### ★ 倉儲管理作業循序圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4805236/1b6b1618-5e7a-11e4-810d-f823b7f458f8.png)
+![default](https://cloud.githubusercontent.com/assets/8871571/4808290/dfd13072-5e9e-11e4-9573-a0a18a9fe58a.png)
+
