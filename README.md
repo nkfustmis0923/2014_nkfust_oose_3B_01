@@ -22,11 +22,11 @@
     
     其對美學與品質的堅持，就如同我們對於生活態度的本能直覺。
 
+### ★ 利害關係人目標表： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/4804863/ebcfb3a6-5e73-11e4-939d-95811a3bb84d.png)
+
 ### ★ 事件與使用案例表： ☆　###
 ![default](https://cloud.githubusercontent.com/assets/8871571/4792221/94579aba-5de4-11e4-8e40-73b9eb45b654.png)
-
-### ★ 利害關係人目標表： ☆　###
-![default](https://cloud.githubusercontent.com/assets/8871571/4792113/a4b51b2c-5de3-11e4-9bd8-ff4e337b6c0c.png)
 
 ### ★ 使用案例圖： ☆　###
 ![default](https://cloud.githubusercontent.com/assets/8871571/4792170/31ae7226-5de4-11e4-983a-514e1fd3b6f7.png)
