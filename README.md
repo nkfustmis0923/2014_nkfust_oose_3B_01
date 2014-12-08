@@ -60,9 +60,9 @@
 ![default](https://cloud.githubusercontent.com/assets/8871571/5336271/e979904e-7ef4-11e4-82fa-38b3d6dea530.png)
 ##### ★ 客戶基本資料作業之類別圖☆ #####
 ![default](https://cloud.githubusercontent.com/assets/8871571/5336275/f25d266c-7ef4-11e4-94d1-bd96393c4555.png)
-##### ★ 處理訂單記錄作業之類別圖 #####
+##### ★ 處理訂單記錄作業之類別圖☆ #####
 ![default](https://cloud.githubusercontent.com/assets/8871571/5336280/07a940c8-7ef5-11e4-8e59-9afda3cf1afb.png)
-##### ★ 倉儲管理作業之類別圖☆ #####
+##### ★ 倉儲管理作業之類別圖 ☆ #####
 ![default](https://cloud.githubusercontent.com/assets/8871571/5336281/0e8bd3ec-7ef5-11e4-8081-d1b97408dd78.png)
 
 ### ★系統類別圖： ☆　###
@@ -100,3 +100,6 @@
 ![control](https://cloud.githubusercontent.com/assets/8871571/5336292/404fc398-7ef5-11e4-9b77-da003d910d2b.png)
 ### ★ Entity： ☆　###
 ![entity](https://cloud.githubusercontent.com/assets/8871571/5336297/4347994a-7ef5-11e4-8c59-15351fadb6a9.png)
+
+### ★ 使用案例強韌圖： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/5336344/e5730ca4-7ef5-11e4-91ea-8e88fbfb81f1.png)
