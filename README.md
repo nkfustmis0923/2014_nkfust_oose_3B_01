@@ -56,17 +56,17 @@
 ![default](https://cloud.githubusercontent.com/assets/8871571/4792266/ee00521e-5de4-11e4-8434-9727fb93307b.png)
 
 ### ★使用案例的初步類別圖： ☆　###
-##### ★ 服飾基本資料作業之初步類別圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4808241/612501e0-5e9e-11e4-8f4f-3372f09e0315.png)
-##### ★ 客戶基本資料作業之初步類別圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4808248/7e6e3dd4-5e9e-11e4-8d2d-4f2dc38b912e.png)
-##### ★ 處理訂單記錄作業之初步類別圖 #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4808250/83e16db8-5e9e-11e4-914c-308498359c45.png)
-##### ★ 倉儲管理作業之初步類別圖☆ #####
-![default](https://cloud.githubusercontent.com/assets/8871571/4808259/96b705e2-5e9e-11e4-9a1c-6a28fb2aca9b.png)
+##### ★ 服飾基本資料作業之類別圖☆ #####
+![default](https://cloud.githubusercontent.com/assets/8871571/5336271/e979904e-7ef4-11e4-82fa-38b3d6dea530.png)
+##### ★ 客戶基本資料作業之類別圖☆ #####
+![default](https://cloud.githubusercontent.com/assets/8871571/5336275/f25d266c-7ef4-11e4-94d1-bd96393c4555.png)
+##### ★ 處理訂單記錄作業之類別圖 #####
+![default](https://cloud.githubusercontent.com/assets/8871571/5336280/07a940c8-7ef5-11e4-8e59-9afda3cf1afb.png)
+##### ★ 倉儲管理作業之類別圖☆ #####
+![default](https://cloud.githubusercontent.com/assets/8871571/5336281/0e8bd3ec-7ef5-11e4-8081-d1b97408dd78.png)
 
-### ★系統初步類別圖： ☆　###
-![default](https://cloud.githubusercontent.com/assets/8871571/4808269/b61d7d94-5e9e-11e4-82a9-23dc379d37c3.png)
+### ★系統類別圖： ☆　###
+![default](https://cloud.githubusercontent.com/assets/8871571/5336264/bf425cac-7ef4-11e4-8041-a01aade0dfe3.png)
 
 ### ★使用案例主要成功情節之英文名稱事件對應： ☆　###
 ![-](https://cloud.githubusercontent.com/assets/8871571/4805218/e419d4d8-5e79-11e4-99b4-5b5a66a53938.png)
@@ -94,3 +94,9 @@
 ##### ★ 倉儲管理作業循序圖☆ #####
 ![default](https://cloud.githubusercontent.com/assets/8871571/4808290/dfd13072-5e9e-11e4-9573-a0a18a9fe58a.png)
 
+### ★ Boundary： ☆　###
+![boundary](https://cloud.githubusercontent.com/assets/8871571/5336288/3316c258-7ef5-11e4-958f-cbd99886fc1f.png)
+### ★ Control： ☆　###
+![control](https://cloud.githubusercontent.com/assets/8871571/5336292/404fc398-7ef5-11e4-9b77-da003d910d2b.png)
+### ★ Entity： ☆　###
+![entity](https://cloud.githubusercontent.com/assets/8871571/5336297/4347994a-7ef5-11e4-8c59-15351fadb6a9.png)
