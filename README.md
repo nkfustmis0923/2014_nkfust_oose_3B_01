@@ -109,6 +109,7 @@
 
 ## ★ 程式碼展示： ☆　##
 ### ★ 介面設計： ☆　###
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -214,6 +215,7 @@
 </LinearLayout>
 
 ### ★ 圖片頁面： ☆　###
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
@@ -356,6 +358,7 @@
 </FrameLayout>
 
 ### ★ 主頁面： ☆　###
+
 package com.example.user.hello;
 
 import android.app.ActionBar;
@@ -537,6 +540,7 @@ list1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 }
 
 ### ★ 圖片縮放頁面： ☆　###
+
 package com.example.user.hello;
 
 import android.animation.Animator;
