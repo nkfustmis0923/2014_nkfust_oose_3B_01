@@ -1,0 +1,316 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <ScrollView
+        android:id="@+id/scroller"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#fffff526">
+
+                <Button
+                    android:id="@+id/info1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="14dp"
+                    android:text="+Info"
+                    android:textSize="18dp"
+                    android:background="#ffffffff" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="灰色拉鍊針織領大衣"
+                    android:gravity="center"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="39dp"
+                    android:id="@+id/shopping"
+                    android:src="@drawable/shoppingcart2"
+
+
+                    android:gravity="right"
+                    android:layout_marginTop="3.8dp"
+                    android:layout_marginLeft="300dp"
+                    android:background="#fffff526" />
+
+            </RelativeLayout>
+            <HorizontalScrollView
+
+                android:layout_width="wrap_content"
+                android:layout_height="180dp"
+
+                android:background="#ffffc123"
+                android:scrollbars="none">
+
+                <LinearLayout
+
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="#ffffc123">
+
+                    <ImageButton
+                        android:id="@+id/image6"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/coat11"/>
+                    <ImageButton
+                        android:id="@+id/image2"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/coat22"
+                        />
+                    <ImageButton
+                        android:id="@+id/image3"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/coat33"
+                        />
+
+                    <ImageButton
+                        android:id="@+id/image4"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/coat44"/>
+                    <ImageButton
+                        android:id="@+id/image5"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/coat55"/>
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#fffff526">
+                <Button
+                    android:id="@+id/info2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="14dp"
+                    android:text="+Info"
+                    android:textSize="18dp"
+                    android:background="#ffffffff" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="針織領灰色大衣"
+                    android:gravity="center"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+            <HorizontalScrollView
+
+                android:layout_width="wrap_content"
+                android:layout_height="180dp"
+
+                android:background="#ffffc123"
+                android:scrollbars="none">
+
+                <LinearLayout
+
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="#ffffc123">
+
+                    <ImageButton
+                        android:id="@+id/graycoat11"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/graycoat11"/>
+                    <ImageButton
+                        android:id="@+id/graycoat22"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/graycoat22"
+                        />
+                    <ImageButton
+                        android:id="@+id/graycoat33"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/graycoat33"
+                        />
+
+                    <ImageButton
+                        android:id="@+id/graycoat44"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/graycoat44"/>
+                    <ImageButton
+                        android:id="@+id/graycoat55"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/graycoat55"/>
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#fffff526">
+                <Button
+                    android:id="@+id/info3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="14dp"
+                    android:text="+Info"
+                    android:textSize="18dp"
+                    android:background="#ffffffff" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="尼龍大衣"
+                    android:gravity="center"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+            <HorizontalScrollView
+
+                android:layout_width="wrap_content"
+                android:layout_height="180dp"
+
+                android:background="#ffffc123"
+                android:scrollbars="none">
+
+                <LinearLayout
+
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="#ffffc123">
+
+                    <ImageButton
+                        android:id="@+id/nylon1"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/nylon11"/>
+                    <ImageButton
+                        android:id="@+id/nylon2"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/nylon22"
+                        />
+                    <ImageButton
+                        android:id="@+id/nylon3"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/nylon33"
+                        />
+
+                    <ImageButton
+                        android:id="@+id/nylon4"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/nylon44"/>
+                    <ImageButton
+                        android:id="@+id/nylon5"
+                        android:layout_width="140dp"
+                        android:layout_height="160dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_margin="8dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/nylon55"/>
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+
+        </LinearLayout>
+    </ScrollView>
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:visibility="invisible"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="false" />
+
+</FrameLayout>
